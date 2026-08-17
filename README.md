@@ -1,178 +1,195 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=220&section=header&text=RAJESH%20S&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Product%20Manager&descAlignY=58&descSize=20&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:A78BFA,100:000000&height=220&section=header&text=RAJESH%20S&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Product%20Manager&descAlignY=58&descSize=20&descColor=FFFFFF" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Designing+products+at+the+edge+of+AI;Turning+GenAI+into+real+workflows" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+Privacy-First+AI+Products;Turning+User+Insight+into+Roadmaps;SaaS+Product+Thinking+%7C+RICE+%7C+PRDs;From+Research+to+Real+Customer+Impact" alt="Typing SVG" />
-
-<br><br>
-
-[![Gmail](https://img.shields.io/badge/-rajeshs18022006@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000)](mailto:rajeshs18022006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000)](https://linkedin.com/in/rajesh-s-a58a342a8)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFD700&labelColor=000000)](https://instagram.com/mr._.jerry._.00._)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rajesh006-jerry&label=Profile%20Views&color=A78BFA&style=for-the-badge)](https://visitcount.itsvg.in)
+[![Followers](https://img.shields.io/github/followers/Rajesh006-jerry?label=Followers&style=for-the-badge&color=A78BFA&labelColor=000000)](https://github.com/Rajesh006-jerry)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-## 🥇 About Me
-
-```yaml
-role: Aspiring AI Product Manager
-location: Thiruvallur, India
-focus: Privacy-first AI products for SaaS workflows
-strengths:
-  - Feature prioritization (RICE)
-  - User & market research
-  - Stakeholder communication
-  - Product documentation & PRDs
-  - Translating customer pain points into roadmap decisions
-currently: Turning research signals into shippable product decisions
-```
-
-<br>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Education
-
-**University of Madras**
-Bachelor of Computer Applications (BCA)
-`2023 – 2026` · Sriperumbudur
-CGPA: **6.8 / 10**
-
-**K.E.N.C HR Govt. School**
-Higher Secondary Education (12th)
-`2021 – 2023` · Thiruvallur
-CGPA: **6.2 / 10**
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Experience
-
-**Product Intern — Geniebox Software Solutions**
-`06/2026` · Chennai
-
-- Led customer & market research to surface user pain points and product opportunities
-- Partnered cross-functionally to refine features and shape roadmap decisions
-- Converted client requirements into structured product recommendations
-- Sharpened research clarity for prioritization & stakeholder discussions
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🏆 Featured Projects
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">🗂️ AI Product Manager Workspace</h3>
-
-<p align="center">
-An all-in-one PM dashboard — roadmap management, user personas, RICE prioritization, Kanban tracking, customer feedback, analytics & release notes — built to cut tool-switching and streamline SaaS/AI product operations.
-</p>
-
-<p align="center">
-<a href="https://rajesh006-jerry.github.io/PM-WORKSPACE/pm-workspace.html">
-<img src="https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logoColor=FFD700&labelColor=000000&color=D4AF37" />
-</a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-<h3 align="center">🛍️ Pocket Shopping — E-commerce Platform</h3>
-
-<p align="center">
-A full e-commerce & inventory management product with product discovery, cart, checkout, reviews, order tracking, and dashboard-style admin workflows for stock and operational visibility.
-</p>
-
-<p align="center">
-<a href="https://rajesh006-jerry.github.io/Inventory-management-system/Pocket-Shopping.html">
-<img src="https://img.shields.io/badge/🔗_Live_Demo-000000?style=for-the-badge&logoColor=FFD700&labelColor=000000&color=D4AF37" />
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## ⚙️ Skills & Toolkit
+## 🔗 Connect With Me
 
 <div align="center">
 
-**Product Management**
-![Roadmap](https://img.shields.io/badge/Roadmap_Planning-000000?style=for-the-badge&labelColor=000000&color=D4AF37)
-![RICE](https://img.shields.io/badge/RICE_Prioritization-000000?style=for-the-badge&labelColor=000000&color=D4AF37)
-![PRD](https://img.shields.io/badge/PRD_Writing-000000?style=for-the-badge&labelColor=000000&color=D4AF37)
-![Agile](https://img.shields.io/badge/Agile-000000?style=for-the-badge&labelColor=000000&color=D4AF37)
-
-**Data & Analytics**
-![GenAI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&labelColor=000000&color=D4AF37)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&labelColor=000000&color=D4AF37)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=FFD700&labelColor=000000&color=D4AF37)
-
-**Programming**
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFD700&labelColor=000000&color=D4AF37)
-
-**Tools & Platforms**
-![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700&labelColor=000000&color=D4AF37)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=FFD700&labelColor=000000&color=D4AF37)
+<table>
+<tr>
+<td align="center"><a href="https://linkedin.com/in/rajesh-s-a58a342a8"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a></td>
+<td align="center"><a href="https://github.com/Rajesh006-jerry"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a></td>
+<td align="center"><a href="mailto:rajeshs18022006@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" height="55" alt="Email"/></a></td>
+<td align="center"><a href="https://instagram.com/mr._.jerry._.00._"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" height="55" alt="Instagram"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://cdn.simpleicons.org/discord/5865F2" width="55" height="55" alt="Discord"/></a></td>
+<td align="center"><a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="55" height="55" alt="Portfolio"/></a></td>
+<td align="center"><a href="https://kaggle.com/YOUR_KAGGLE_USERNAME"><img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="55" height="55" alt="Kaggle"/></a></td>
+<td align="center"><a href="https://YOUR-RESUME-LINK.com"><img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" height="55" alt="Resume"/></a></td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
+
+## 🧰 Tech Stack
+
+**GenAI / LLMs**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/openai/A78BFA" width="55" height="55" alt="OpenAI"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/googlegemini/A78BFA" width="55" height="55" alt="Gemini"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/langchain/A78BFA" width="55" height="55" alt="LangChain"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/huggingface/A78BFA" width="55" height="55" alt="Hugging Face"/></td>
+</tr>
+</table>
+</div>
+
+**Languages**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/></td>
+</tr>
+</table>
+</div>
+
+**AI & ML**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="scikit-learn"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/numpy/A78BFA" width="55" height="55" alt="NumPy"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/pandas/A78BFA" width="55" height="55" alt="Pandas"/></td>
+</tr>
+</table>
+</div>
+
+**Data Science**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/tableau/A78BFA" width="55" height="55" alt="Tableau"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/googleanalytics/A78BFA" width="55" height="55" alt="Google Analytics"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="SQL"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/microsoftexcel/A78BFA" width="55" height="55" alt="Excel"/></td>
+</tr>
+</table>
+</div>
+
+**Web & App Dev**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" alt="React"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" height="55" alt="Figma"/></td>
+</tr>
+</table>
+</div>
+
+**Cloud & Infra**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55" alt="AWS"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" height="55" alt="Google Cloud"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/></td>
+</tr>
+</table>
+</div>
+
+**Databases**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL"/></td>
+</tr>
+</table>
+</div>
+
+**Dev Tools**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/></td>
+<td align="center"><img src="https://cdn.simpleicons.org/jira/A78BFA" width="55" height="55" alt="Jira"/></td>
+</tr>
+</table>
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rajesh006-jerry&show_icons=true&theme=radical&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&hide_border=false&count_private=false" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh006-jerry&layout=compact&theme=radical&bg_color=000000&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&hide_border=false" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rajesh006-jerry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh006-jerry&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=FFFFFF" width="42%"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Rajesh006-jerry&theme=radical&background=000000&border=D4AF37&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=FFFFFF" width="70%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rajesh006-jerry&theme=matrix&no-frame=false&no-bg=true&margin-w=6&column=7" width="90%"/>
+<img src="https://streak-stats.demolab.com/?user=Rajesh006-jerry&theme=tokyonight&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-### 📫 Let's Connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajesh006-jerry&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
-**rajeshs18022006@gmail.com**  ·  **+91 90254 61022**  ·  **Thiruvallur, India**
+</div>
 
-<sub>Open to AI Product Management roles, internships & collaborations</sub>
+---
 
-<br><br>
+<div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Rajesh006-jerry&label=Profile+Views&color=D4AF37&style=for-the-badge)](https://visitcount.itsvg.in)
+> *"The best products are built by those who understand the problem before they touch the solution."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=100&section=footer" width="100%"/>
+</div>
+
+---
+
+```
+██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
+██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ 
+██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
+██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
+██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+
+>> Great products aren't launched. They're iterated into existence. <<
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:A78BFA,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
