@@ -1,10 +1,11 @@
+
 <div align="center">
 
 <!-- Animated Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img src="about.png" alt="Rajesh S — AI Product Manager" width="100%"/>
+  <img src="./banner.svg?v=1" alt="Rajesh S — AI Product Manager" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +17,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- Swinging Lanyard ID Card -->
-<img src="./lanyard.svg?v=1" alt="Rajesh S ID badge" width="300"/>
+<img src="./lanyard.svg?v=2" alt="Rajesh S ID badge" width="260"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -50,8 +51,8 @@ Aspiring **AI Product Manager** with a foundation in SaaS product thinking, user
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./stats.svg?v=1" alt="GitHub Stats" height="185"/>
-<img src="./langs.svg?v=1" alt="Top Skills" height="185"/>
+<img src="./stats.svg?v=2" alt="GitHub Stats" height="200"/>
+<img src="./langs.svg?v=2" alt="Top Skills" height="200"/>
 
 <br/><br/>
 
