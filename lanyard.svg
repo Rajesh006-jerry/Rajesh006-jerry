@@ -1,0 +1,76 @@
+<svg width="320" height="480" viewBox="0 0 320 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="strapGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4fd8"/>
+      <stop offset="100%" stop-color="#b06bff"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0b2e"/>
+      <stop offset="100%" stop-color="#2d1149"/>
+    </linearGradient>
+    <linearGradient id="avatarRing" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff4fd8"/>
+      <stop offset="100%" stop-color="#6f6bff"/>
+    </linearGradient>
+    <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- whole badge drops in then swings forever like a pendulum from the anchor point -->
+  <g transform="translate(160,0)">
+    <animateTransform attributeName="transform" type="translate" values="160,-260;160,0;160,0" keyTimes="0;0.35;1" dur="1.6s" fill="freeze"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="0;10;-9;7;-5;3;-2;0"
+        keyTimes="0;0.14;0.28;0.42;0.57;0.71;0.85;1" dur="1.6s" begin="1.6s" fill="freeze"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="0;2.5;-2.5;0" dur="3.4s" begin="3.2s" repeatCount="indefinite"/>
+
+        <!-- strap -->
+        <rect x="-16" y="0" width="32" height="150" fill="url(#strapGrad)"/>
+        <text x="0" y="90" font-family="Segoe UI, sans-serif" font-size="11" fill="#ffffffcc" text-anchor="middle" transform="rotate(90)">RAJESH · AI PM &#160;&#160; RAJESH · AI PM</text>
+
+        <!-- clasp + ring -->
+        <circle cx="0" cy="152" r="10" fill="#d9d9d9" stroke="#8a8a8a" stroke-width="2"/>
+        <rect x="-6" y="150" width="12" height="18" rx="4" fill="#c7c7c7" stroke="#8a8a8a"/>
+
+        <!-- card -->
+        <g transform="translate(-95,168)">
+          <rect x="0" y="0" width="190" height="260" rx="18" fill="url(#cardGrad)" stroke="#b06bff55" stroke-width="1.5"/>
+
+          <!-- avatar -->
+          <circle cx="95" cy="78" r="46" fill="url(#avatarRing)"/>
+          <circle cx="95" cy="78" r="40" fill="#150a2b"/>
+          <text x="95" y="92" font-family="Segoe UI, sans-serif" font-size="34" font-weight="bold" fill="url(#avatarRing)" text-anchor="middle">RS</text>
+
+          <text x="95" y="148" font-family="Segoe UI, sans-serif" font-size="18" font-weight="bold" fill="#f1e8ff" text-anchor="middle">Rajesh S</text>
+          <text x="95" y="168" font-family="Fira Code, monospace" font-size="12" fill="#c9b6ff" text-anchor="middle">AI Product Manager</text>
+          <text x="95" y="186" font-family="Fira Code, monospace" font-size="11" fill="#8effc1" text-anchor="middle">@rajesh006-jerry</text>
+
+          <!-- barcode -->
+          <g transform="translate(30,205)" fill="#e8d9ff">
+            <rect x="0" y="0" width="2" height="30"/><rect x="4" y="0" width="1" height="30"/><rect x="7" y="0" width="3" height="30"/>
+            <rect x="12" y="0" width="1" height="30"/><rect x="15" y="0" width="2" height="30"/><rect x="19" y="0" width="1" height="30"/>
+            <rect x="22" y="0" width="3" height="30"/><rect x="27" y="0" width="1" height="30"/><rect x="30" y="0" width="2" height="30"/>
+            <rect x="34" y="0" width="1" height="30"/><rect x="37" y="0" width="3" height="30"/><rect x="42" y="0" width="1" height="30"/>
+            <rect x="45" y="0" width="2" height="30"/><rect x="49" y="0" width="1" height="30"/><rect x="52" y="0" width="3" height="30"/>
+            <rect x="57" y="0" width="1" height="30"/><rect x="60" y="0" width="2" height="30"/><rect x="64" y="0" width="1" height="30"/>
+            <rect x="67" y="0" width="3" height="30"/><rect x="72" y="0" width="1" height="30"/><rect x="75" y="0" width="2" height="30"/>
+            <rect x="79" y="0" width="1" height="30"/><rect x="82" y="0" width="3" height="30"/><rect x="87" y="0" width="1" height="30"/>
+            <rect x="90" y="0" width="2" height="30"/><rect x="94" y="0" width="1" height="30"/><rect x="97" y="0" width="3" height="30"/>
+            <rect x="102" y="0" width="1" height="30"/><rect x="105" y="0" width="2" height="30"/><rect x="109" y="0" width="1" height="30"/>
+            <rect x="112" y="0" width="3" height="30"/><rect x="117" y="0" width="1" height="30"/><rect x="120" y="0" width="2" height="30"/>
+            <rect x="124" y="0" width="1" height="30"/><rect x="127" y="0" width="3" height="30"/>
+          </g>
+
+          <!-- holographic shine sweep -->
+          <rect x="-40" y="0" width="60" height="260" fill="url(#shineGrad)" transform="skewX(-20)">
+            <animateTransform attributeName="transform" type="translate" values="-40,0;260,0" dur="3s" repeatCount="indefinite" additive="sum"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

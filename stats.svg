@@ -1,0 +1,57 @@
+<svg width="480" height="200" viewBox="0 0 480 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff4fd8"/>
+      <stop offset="100%" stop-color="#6f6bff"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4fd8"/>
+      <stop offset="100%" stop-color="#b06bff"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="480" height="200" rx="16" fill="#1a0b2e" stroke="#b06bff44"/>
+  <text x="24" y="34" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold" fill="#f1e8ff">GitHub Stats</text>
+
+  <!-- rank ring -->
+  <g transform="translate(80,120)">
+    <circle r="52" fill="none" stroke="#ffffff14" stroke-width="10"/>
+    <circle r="52" fill="none" stroke="url(#ringGrad)" stroke-width="10" stroke-linecap="round"
+      stroke-dasharray="326.7" stroke-dashoffset="326.7" transform="rotate(-90)">
+      <animate attributeName="stroke-dashoffset" from="326.7" to="98" begin="0.3s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </circle>
+    <text x="0" y="-2" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="20" font-weight="bold" fill="#f1e8ff">A</text>
+    <text x="0" y="18" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="10" fill="#c9b6ff">rank (sample)</text>
+  </g>
+
+  <!-- stat rows, sliding in -->
+  <g font-family="Segoe UI, sans-serif" font-size="14" fill="#e8d9ff">
+    <g transform="translate(170,66)">
+      <rect width="0" height="18" transform="translate(0,-14)" fill="#00000000"/>
+      <text opacity="0">⭐ Featured Projects &#160;&#160;2
+        <animate attributeName="opacity" to="1" begin="0.4s" dur="0.4s" fill="freeze"/>
+      </text>
+      <animateTransform attributeName="transform" type="translate" values="220,66;170,66" begin="0.4s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </g>
+    <g transform="translate(170,96)">
+      <text opacity="0">🛠️ Core Toolkit &#160;&#160;Jira · Figma · Git
+        <animate attributeName="opacity" to="1" begin="0.6s" dur="0.4s" fill="freeze"/>
+      </text>
+      <animateTransform attributeName="transform" type="translate" values="220,96;170,96" begin="0.6s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </g>
+    <g transform="translate(170,126)">
+      <text opacity="0">🧠 Focus &#160;&#160;AI Product Thinking
+        <animate attributeName="opacity" to="1" begin="0.8s" dur="0.4s" fill="freeze"/>
+      </text>
+      <animateTransform attributeName="transform" type="translate" values="220,126;170,126" begin="0.8s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </g>
+    <g transform="translate(170,156)">
+      <text opacity="0">🎓 Education &#160;&#160;BCA, Univ. of Madras
+        <animate attributeName="opacity" to="1" begin="1.0s" dur="0.4s" fill="freeze"/>
+      </text>
+      <animateTransform attributeName="transform" type="translate" values="220,156;170,156" begin="1.0s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </g>
+  </g>
+
+  <text x="24" y="188" font-family="Segoe UI, sans-serif" font-size="10" fill="#9a86c9">sample values &#8212; swap in your live stats anytime</text>
+</svg>

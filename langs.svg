@@ -1,0 +1,33 @@
+<svg width="480" height="220" viewBox="0 0 480 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lbar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4fd8"/>
+      <stop offset="100%" stop-color="#6f6bff"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="480" height="220" rx="16" fill="#1a0b2e" stroke="#b06bff44"/>
+  <text x="24" y="34" font-family="Segoe UI, sans-serif" font-size="16" font-weight="bold" fill="#f1e8ff">Top Skills</text>
+
+  <g font-family="Segoe UI, sans-serif" font-size="13" fill="#e8d9ff">
+    <!-- Product Management -->
+    <text x="24" y="62">Product Management</text>
+    <rect x="24" y="70" width="400" height="10" rx="5" fill="#ffffff10"/>
+    <rect x="24" y="70" height="10" rx="5" fill="url(#lbar)"><animate attributeName="width" from="0" to="368" begin="0.3s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/></rect>
+
+    <text x="24" y="98">Generative AI / Prompt Engineering</text>
+    <rect x="24" y="106" width="400" height="10" rx="5" fill="#ffffff10"/>
+    <rect x="24" y="106" height="10" rx="5" fill="url(#lbar)"><animate attributeName="width" from="0" to="336" begin="0.45s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/></rect>
+
+    <text x="24" y="134">SQL / Excel / Tableau</text>
+    <rect x="24" y="142" width="400" height="10" rx="5" fill="#ffffff10"/>
+    <rect x="24" y="142" height="10" rx="5" fill="url(#lbar)"><animate attributeName="width" from="0" to="288" begin="0.6s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/></rect>
+
+    <text x="24" y="170">HTML / CSS / JavaScript</text>
+    <rect x="24" y="178" width="400" height="10" rx="5" fill="#ffffff10"/>
+    <rect x="24" y="178" height="10" rx="5" fill="url(#lbar)"><animate attributeName="width" from="0" to="240" begin="0.75s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/></rect>
+
+    <text x="24" y="206">Python / Java (basics)</text>
+    <rect x="24" y="212" width="400" height="6" rx="3" fill="#ffffff10"/>
+    <rect x="24" y="212" height="6" rx="3" fill="url(#lbar)"><animate attributeName="width" from="0" to="176" begin="0.9s" dur="1s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1"/></rect>
+  </g>
+</svg>
